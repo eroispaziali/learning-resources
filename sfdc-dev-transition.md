@@ -26,11 +26,11 @@ Apex managed sharing and recalculation with Batch classes
 `RestContext` class, methods and attributes (how to access `RestRequest`, `RestResponse`)
 
 
-How to updating currency exchange rates through APIs
+How to update currency exchange rates through APIs
 * `CurrencyType` and `DatedConversionRate` objects
 * Can use the SOAP, REST API or DataLoader
 
-How to use resources in Lightning
+How to use resources in Lightning Components
 
 How to have WebServices and Rest methods to cohexist in the same class and limitations
 * they can coexist, only post for parameters
