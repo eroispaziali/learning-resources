@@ -1,5 +1,4 @@
-Platform I/II Transition Exam notes
-
+## Platform I/II Transition Exam notes
 
 What method for setting certificate in dual SSL callouts?
 ```
