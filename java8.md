@@ -6,3 +6,5 @@
 * [Streams Cheatsheet](http://zeroturnaround.com/wp-content/uploads/2016/05/Java-8-Streams-cheat-sheet-by-RebelLabs.png)
 * Processing Data with Java SE 8 Streams: [Part 1](http://www.oracle.com/technetwork/articles/java/ma14-java-se-8-streams-2177646.html), [Part 2](http://www.oracle.com/technetwork/articles/java/architect-streams-pt2-2227132.html)
 
+## Concurrency
+* [Java 8 Concurrency Tutorial: Threads and Executors](http://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor-examples/)
