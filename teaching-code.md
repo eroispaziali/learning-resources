@@ -3,7 +3,7 @@
 * [Scratch](https://scratch.mit.edu)
 * [Code Academy](https://www.codecademy.com)
 * [Code Combat](https://codecombat.com/)
-
+* [VisuAlgo](http://visualgo.net/)
 
 ## Webinars
 * [Selection sort](https://www.youtube.com/watch?v=f8hXR_Hvybo)
@@ -12,6 +12,9 @@
 
 ## Cool stuff
 * [Sorting algorithms with Hungarian folk dance](https://www.youtube.com/watch?v=ywWBy6J5gz8&list=RDywWBy6J5gz8#t=46)
+
+## Complex stuff
+* [A* Pathfinding](https://www.youtube.com/watch?v=19h1g22hby8)
 
 
 ## Concepts
