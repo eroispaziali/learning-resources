@@ -24,5 +24,6 @@
 * What is a variable?
 * What is a loop?
 * What is a data structure?
+* Program = Algorithm + Data Structure
 
 
