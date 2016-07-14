@@ -10,6 +10,7 @@
 * [Selection sort](https://www.youtube.com/watch?v=f8hXR_Hvybo)
 * [Quicksort](https://www.youtube.com/watch?v=aQiWF4E8flQ)
 * [Insertsort](https://www.youtube.com/watch?v=DFG-XuyPYUQ)
+* [Algorithms - Scientific](https://www.youtube.com/watch?v=YIFWCpquoS8&list=PLUX6FBiUa2g4YWs6HkkCpXL6ru02i7y3Q)
 
 ## Cool stuff
 * [Sorting algorithms with Hungarian folk dance](https://www.youtube.com/watch?v=ywWBy6J5gz8&list=RDywWBy6J5gz8#t=46)
