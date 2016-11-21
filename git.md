@@ -25,3 +25,9 @@ git push origin :old-name new-name
 git branch -d -r origin/branch-to-delete
 git push origin :branch-to-delete
 ```
+
+## Reverting a change
+```
+git checkout :sha
+git checkout -b :new-patched-branch
+```
