@@ -13,7 +13,6 @@
 
 ## Useful stuff
 
-
 ### Renaming a branch
 ```
 git branch -m old-name new-name
@@ -26,8 +25,14 @@ git branch -d -r origin/branch-to-delete
 git push origin :branch-to-delete
 ```
 
-## Reverting a change
+### Reverting a change
 ```
 git checkout :sha
 git checkout -b :new-patched-branch
+```
+
+### When git keeps prompting for passphrase on every pull or push
+```
+eval $(ssh-agent)
+ssh-add
 ```
