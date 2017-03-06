@@ -2,6 +2,7 @@
 
 - [A Deep Learning Tutorial: From Perceptrons to Deep Networks](https://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
 - [Deep learning in plain English](https://hackernoon.com/learning-ai-if-you-suck-at-math-p5-deep-learning-and-convolutional-neural-nets-in-plain-english-cda79679bbe3#.8z6wq5mpp)
+* [Introduction to Deep Neural Networks](https://deeplearning4j.org/neuralnet-overview)
 
 
 ## Video Lectures
