@@ -14,4 +14,6 @@
 * [DeepLearning4j](https://deeplearning4j.org/)
 * [Popular deep learning libraries](http://machinelearningmastery.com/popular-deep-learning-libraries/)
 
+## Tools
+* [GNU Octave - Scientific Programming Language](http://www.gnu.org/software/octave/)
 
