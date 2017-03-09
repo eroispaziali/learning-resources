@@ -18,3 +18,10 @@
 ## Tools
 * [GNU Octave - Scientific Programming Language](http://www.gnu.org/software/octave/)
 
+## Books
+* [Kevin Murphy's Machine learning: a Probabilistic Perspective](http://www.cs.ubc.ca/~murphyk/MLbook/)
+* [Hastie, Tibshirani, and Friedman's The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+* [Bishop's Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/)
+* [David Barber's Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/020217.pdf)
+* [Larry Wasserman's All of Statistics: A Concise Course in Statistical Inference](https://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/0387402721)
+* [Awesome Machine Leaerning Books](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
