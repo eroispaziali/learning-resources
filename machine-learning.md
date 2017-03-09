@@ -5,11 +5,13 @@
 * [Introduction to Deep Neural Networks](https://deeplearning4j.org/neuralnet-overview)
 * [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
-
 ## Video Lectures
 
 * [TensorFlow and deep learning without a PhD by Martin Görner] (https://www.youtube.com/watch?v=vq2nnJ4g6N0)
 * [Machine Learning Courses with video lectures] (https://github.com/Developer-Y/cs-video-courses/blob/master/README.md#machine-learning)
+
+## Online Courses
+* [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning/)
 
 ## Libraries
 * [DeepLearning4j](https://deeplearning4j.org/)
@@ -24,4 +26,4 @@
 * [Bishop's Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/)
 * [David Barber's Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/020217.pdf)
 * [Larry Wasserman's All of Statistics: A Concise Course in Statistical Inference](https://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/0387402721)
-* [Awesome Machine Leaerning Books](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
+* [Awesome Machine Learning Books](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
