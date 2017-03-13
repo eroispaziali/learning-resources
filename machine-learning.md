@@ -27,3 +27,6 @@
 * [David Barber's Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/020217.pdf)
 * [Larry Wasserman's All of Statistics: A Concise Course in Statistical Inference](https://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/0387402721)
 * [Awesome Machine Learning Books](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
+
+# Examples
+* [6 Easy Steps to Learn Naive Bayes Algorithm](https://www.analyticsvidhya.com/blog/2015/09/naive-bayes-explained/)
