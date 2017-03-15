@@ -12,6 +12,7 @@
 
 ## Online Courses
 * [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning/)
+* [Deep Learning](https://classroom.udacity.com/courses/ud730)
 
 ## Libraries
 * [DeepLearning4j](https://deeplearning4j.org/)
