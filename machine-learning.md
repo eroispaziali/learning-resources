@@ -4,11 +4,11 @@
 - [Deep learning in plain English](https://hackernoon.com/learning-ai-if-you-suck-at-math-p5-deep-learning-and-convolutional-neural-nets-in-plain-english-cda79679bbe3#.8z6wq5mpp)
 * [Introduction to Deep Neural Networks](https://deeplearning4j.org/neuralnet-overview)
 * [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+* [Stanford University- Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
 
 ## Video Lectures
-
-* [TensorFlow and deep learning without a PhD by Martin Görner] (https://www.youtube.com/watch?v=vq2nnJ4g6N0)
-* [Machine Learning Courses with video lectures] (https://github.com/Developer-Y/cs-video-courses/blob/master/README.md#machine-learning)
+* [TensorFlow and deep learning without a PhD by Martin Görner](https://www.youtube.com/watch?v=vq2nnJ4g6N0)
+* [Machine Learning Courses with video lectures](https://github.com/Developer-Y/cs-video-courses/blob/master/README.md#machine-learning)
 
 ## Online Courses
 * [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning/)
